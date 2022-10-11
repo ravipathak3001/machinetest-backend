@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "634462d99d6396b5bb215e3e"
+  },
+  "name": "Maggie",
+  "price": 20,
+  "qty": 3,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665426137195"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665426137195"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6344630a9d6396b5bb215e40"
+  },
+  "name": "Perle-G",
+  "price": 18,
+  "qty": 10,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665426186298"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665426186298"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6344631d9d6396b5bb215e42"
+  },
+  "name": "Britania 50-50",
+  "price": 15,
+  "qty": 8,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665426205958"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665426205958"
+    }
+  },
+  "__v": 0
+}]
